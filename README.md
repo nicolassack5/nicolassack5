@@ -18,7 +18,7 @@ Soy un apasionado por la ingeniería de datos y el desarrollo de sistemas robust
 
 ### 🚀 Proyectos Destacados
 
-* **Sistema de Aerolíneas (Data Engineering):** Diseño de arquitectura de datos y diagramas entidad-relación para gestión aeroportuaria.
+* **[Sistema de Aerolíneas (Data Engineering)](https://github.com/nicolassack5/Airline-Management-System-Data-Engineering.git):** Diseño de arquitectura de datos y diagramas entidad-relación para gestión aeroportuaria.
 * **Gestión de Salud Preventiva:** Implementación de sistema multi-modelo integrando bases relacionales y NoSQL para optimizar consultas médicas.
 * **Diseño y Desarrollo Web:** Proyectos de frontend y landing pages.
 
