@@ -9,7 +9,7 @@ Soy Desarrollador de Software con sólida formación en backend y frontend. Teng
 
 ### 🛠 Tech Stack
 
-* **Lenguajes:** Java, JavaScript, Python.
+* **Lenguajes:** Java, JavaScript, Python, C#.
 * **Backend:** Spring Boot, Spring Security, APIs REST, JWT.
 * **Frontend:** HTML, CSS, React, Material UI.
 * **Bases de Datos:** PostgreSQL, MySQL, SQL Server, MongoDB, Neo4j, Cassandra, Redis.
